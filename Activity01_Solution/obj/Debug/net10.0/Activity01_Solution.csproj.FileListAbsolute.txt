@@ -1,0 +1,14 @@
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\bin\Debug\net10.0\Activity01_Solution.exe
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\bin\Debug\net10.0\Activity01_Solution.deps.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\bin\Debug\net10.0\Activity01_Solution.runtimeconfig.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\bin\Debug\net10.0\Activity01_Solution.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\bin\Debug\net10.0\Activity01_Solution.pdb
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\obj\Debug\net10.0\Activity01_Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\obj\Debug\net10.0\Activity01_Solution.AssemblyInfoInputs.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\obj\Debug\net10.0\Activity01_Solution.AssemblyInfo.cs
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\obj\Debug\net10.0\Activity01_Solution.csproj.CoreCompileInputs.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\obj\Debug\net10.0\Activity01_Solution.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\obj\Debug\net10.0\refint\Activity01_Solution.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\obj\Debug\net10.0\Activity01_Solution.pdb
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\obj\Debug\net10.0\Activity01_Solution.genruntimeconfig.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\Activity01_Solution\Activity01_Solution\obj\Debug\net10.0\ref\Activity01_Solution.dll
