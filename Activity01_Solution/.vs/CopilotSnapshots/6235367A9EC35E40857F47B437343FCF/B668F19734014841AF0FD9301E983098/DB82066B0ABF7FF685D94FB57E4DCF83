@@ -1,0 +1,163 @@
+﻿using System;
+using System.Globalization;
+
+namespace Activity01_CSharp
+{
+    class Activity01_Solution
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Activity-01: Logical & Conceptual Programming in C#");
+            Console.WriteLine("Solve all questions by implementing logic inside each function.");
+            Console.WriteLine("--------------------------------------------------------------");
+
+            Question1();
+            Question2();
+            Question3();
+            Question4();
+            Question5();
+            Question6();
+            Question7();
+            Question8();
+            Question9();
+            Question10();
+        }
+
+        // --------------------------------------------------------
+        // Question 1
+        // Write logic to calculate retirement date and experience
+        // --------------------------------------------------------
+        static void Question1()
+        {
+            Console.WriteLine("Question 1: Calculate retirement date and experience");
+        
+            Console.Write("Enter your Date of Birth  (yyyy-mm-dd): 1995-04-12:");
+            DateTime dob= Convert.ToDateTime(Console.ReadLine());
+            Console.Write("Enter your Date of Joining  (yyyy-mm-dd): 1995-04-12:");
+            DateTime job = Convert.ToDateTime(Console.ReadLine());
+            DateTime tod = DateTime.Today;
+            DateTime retirement=dob.AddYears(60);
+            var (yrs, mons, dys) = GetExperience(job, tod);
+            Console.WriteLine($"Retirement date (age 60): {retirement:yyyy-MM-dd}");
+            // print experience in required form: "9 years 5 month 10 days"
+            Console.WriteLine($"Experience: {yrs} years {mons} month {dys} days");
+
+        }
+
+        // --------------------------------------------------------
+        // Question 2
+        // Count occurrences of a word in a paragraph and show indexes
+        // --------------------------------------------------------
+        static void Question2()
+        {
+
+        }
+
+        // --------------------------------------------------------
+        // Question 3
+        // Check whether a number is a Strong Number
+        // --------------------------------------------------------
+        static void Question3()
+        {
+
+        }
+
+        // --------------------------------------------------------
+        // Question 4
+        // Generate Fibonacci series and sum of even numbers
+        // --------------------------------------------------------
+        static void Question4()
+        {
+
+        }
+
+        // --------------------------------------------------------
+        // Question 5
+        // Count vowels, consonants, digits, special characters
+        // --------------------------------------------------------
+        static void Question5()
+        {
+
+        }
+
+        // --------------------------------------------------------
+        // Question 6
+        // Reverse and add process to find palindrome
+        // --------------------------------------------------------
+        static void Question6()
+        {
+
+        }
+
+        // --------------------------------------------------------
+        // Question 7
+        // Find maximum, minimum, and average of 10 numbers
+        // --------------------------------------------------------
+        static void Question7()
+        {
+
+        }
+
+        // --------------------------------------------------------
+        // Question 8
+        // Find day of week and remaining days in year
+        // --------------------------------------------------------
+        static void Question8()
+        {
+
+        }
+
+        // --------------------------------------------------------
+        // Question 9
+        // Detect datatype and perform type conversions
+        // --------------------------------------------------------
+        static void Question9()
+        {
+
+        }
+
+        // --------------------------------------------------------
+        // Question 10
+        // Number guessing game with random number
+        // --------------------------------------------------------
+        static void Question10()
+        {
+
+        }
+
+        static (int years, int months, int days) GetExperience(DateTime from, DateTime to)
+        {
+            if (to < from) throw new ArgumentException("'to' must be >= 'from'");
+            int years = to.Year - from.Year;
+            int months = to.Month - from.Month;
+            int days = to.Day - from.Day;
+
+            if (days < 0)
+            {
+                months--;
+                var prevMonth = to.AddMonths(-1);
+                days += DateTime.DaysInMonth(prevMonth.Year, prevMonth.Month);
+            }
+            if (months < 0)
+            {
+                years--;
+                months += 12;
+            }
+            return (years, months, days);
+        }
+
+        static DateTime ReadDate(string prompt, Func<DateTime, bool> validate, string errMsg)
+        {
+            while (true)
+            {
+                Console.Write(prompt);
+                var s = Console.ReadLine();
+                if (DateTime.TryParseExact(s, "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.None, out var dt))
+                {
+                    if (validate == null || validate(dt)) return dt;
+                }
+                Console.WriteLine(errMsg);
+            }
+        }
+    }
+}
