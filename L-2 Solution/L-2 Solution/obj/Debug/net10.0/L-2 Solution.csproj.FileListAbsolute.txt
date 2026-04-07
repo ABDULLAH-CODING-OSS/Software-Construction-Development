@@ -1,0 +1,15 @@
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\bin\Debug\net10.0\L-2 Solution.exe
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\bin\Debug\net10.0\L-2 Solution.deps.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\bin\Debug\net10.0\L-2 Solution.runtimeconfig.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\bin\Debug\net10.0\L-2 Solution.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\bin\Debug\net10.0\L-2 Solution.pdb
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\L-2 Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\L-2 Solution.AssemblyInfoInputs.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\L-2 Solution.AssemblyInfo.cs
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\L-2 Solution.csproj.CoreCompileInputs.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\L-2 Solution.sourcelink.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\L-2 Solution.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\refint\L-2 Solution.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\L-2 Solution.pdb
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\L-2 Solution.genruntimeconfig.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-2 Solution\L-2 Solution\obj\Debug\net10.0\ref\L-2 Solution.dll

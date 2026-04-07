@@ -1,0 +1,15 @@
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\bin\Debug\net10.0\L-3 Submission.exe
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\bin\Debug\net10.0\L-3 Submission.deps.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\bin\Debug\net10.0\L-3 Submission.runtimeconfig.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\bin\Debug\net10.0\L-3 Submission.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\bin\Debug\net10.0\L-3 Submission.pdb
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\L-3 Submission.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\L-3 Submission.AssemblyInfoInputs.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\L-3 Submission.AssemblyInfo.cs
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\L-3 Submission.csproj.CoreCompileInputs.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\L-3 Submission.sourcelink.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\L-3 Submission.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\refint\L-3 Submission.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\L-3 Submission.pdb
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\L-3 Submission.genruntimeconfig.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\L-3 Submission\L-3 Submission\obj\Debug\net10.0\ref\L-3 Submission.dll

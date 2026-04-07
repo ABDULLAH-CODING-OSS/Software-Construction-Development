@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6th Semester\\Software Construction \u0026 Development\\Activities Solutions\\L-2 Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08559BD-BABD-4A97-B585-370F8F5ABE36}|L-2 Solution\\L-2 Solution.csproj|d:\\6th semester\\software construction \u0026 development\\activities solutions\\l-2 solution\\l-2 solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08559BD-BABD-4A97-B585-370F8F5ABE36}|L-2 Solution\\L-2 Solution.csproj|solutionrelative:l-2 solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6th Semester\\Software Construction \u0026 Development\\Activities Solutions\\L-2 Solution\\L-2 Solution\\Program.cs",
+              "RelativeDocumentMoniker": "L-2 Solution\\Program.cs",
+              "ToolTip": "D:\\6th Semester\\Software Construction \u0026 Development\\Activities Solutions\\L-2 Solution\\L-2 Solution\\Program.cs*",
+              "RelativeToolTip": "L-2 Solution\\Program.cs*",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwGMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:29:53.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

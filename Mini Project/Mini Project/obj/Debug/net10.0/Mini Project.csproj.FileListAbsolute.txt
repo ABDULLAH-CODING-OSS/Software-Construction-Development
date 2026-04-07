@@ -1,0 +1,15 @@
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\Mini Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\Mini Project.AssemblyInfoInputs.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\Mini Project.AssemblyInfo.cs
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\Mini Project.csproj.CoreCompileInputs.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\Mini Project.sourcelink.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\bin\Debug\net10.0\Mini Project.exe
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\bin\Debug\net10.0\Mini Project.deps.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\bin\Debug\net10.0\Mini Project.runtimeconfig.json
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\bin\Debug\net10.0\Mini Project.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\bin\Debug\net10.0\Mini Project.pdb
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\Mini Project.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\refint\Mini Project.dll
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\Mini Project.pdb
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\Mini Project.genruntimeconfig.cache
+D:\6th Semester\Software Construction & Development\Activities Solutions\Mini Project\Mini Project\obj\Debug\net10.0\ref\Mini Project.dll
